@@ -3,8 +3,9 @@
   
 ⚡ Work experience:
 
-Software Engineer intern at Linsible - Full-stack development on the Release Engineering team. 
-Software Engineer intern at Skid Fintech Private Limited - Backend API intern on the Backend team. 
+1. Software Engineer intern at Linsible - Full-stack development on the Release Engineering team. 
+
+2. Software Engineer intern at Skid Fintech Private Limited - Backend API intern on the Backend team. 
 
 🌱 Interests:
 
